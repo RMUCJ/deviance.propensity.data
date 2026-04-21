@@ -16,7 +16,7 @@ It includes the survey summary, raw data export, statistical summaries, and visu
 
 The public results page is available here:
 
-[Add your GitHub Pages URL here]
+(https://rmucj.github.io/deviance.propensity.data/)
 
 ## Citation
 
